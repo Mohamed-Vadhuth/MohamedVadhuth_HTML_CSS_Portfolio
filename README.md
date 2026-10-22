@@ -1,5 +1,7 @@
 # Personal Portfolio Website - Mohamed Vadhuth S
 
+🌐 Live Portfolio Website: [Visit My Portfolio](https://mohamed-vadhuth.github.io/MohamedVadhuth_HTML_CSS_Portfolio/)
+
 A clean, modern, and responsive developer portfolio website built strictly using **semantic HTML5 and vanilla CSS3**. Designed as an internship project submission for the Computer Science & Engineering curriculum.
 
 ---
